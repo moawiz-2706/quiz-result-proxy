@@ -1,0 +1,14 @@
+{
+  "name": "my-ghl-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel proxy for GHL survey results",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "build": "echo \"No build step required\""
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
